@@ -1,6 +1,26 @@
 def isSwear(word):
     swearList = ["poop",
-                 "pee"]
+                 "pee"
+                 "shit"
+                 "ass"
+                 "fuck"
+                 "bitch"
+                 "faggot"
+                 "anus"
+                 "nigger"
+                 "kike"
+                 "dyke"
+                 "PP"
+                 "penis"
+                 "dick"
+                 "cock"
+                 "vagina"
+                 "pussy"
+                 "cunt"
+                 "chink"
+                 
+                 
+                 ]
     if word in swearList:
         return True
     else:
@@ -27,7 +47,7 @@ def getWord(prompt):
         goodInput = True
         if isSwear(response):
             goodInput = False
-            print "Don't use that kind of language with me!"
+            print "BAD, UR TRASH, DON'T SAY THAT"
         return response
 
 def getNumber(prompt):
@@ -39,7 +59,7 @@ def getNumber(prompt):
         for character in response:
             if character not in numbers:
                 goodInput = False
-                print "Numbers only please!"
+                print "Only numbers dipshit"
     return response
         
         

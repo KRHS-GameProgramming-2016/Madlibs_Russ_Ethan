@@ -1,6 +1,7 @@
 from splash import *
 from input import *
 import story1
+import story2
 
 def madlibs():
     print splash()
@@ -13,6 +14,9 @@ def madlibs():
             end = True
         elif option == "1":
             print story1.story()
+            raw_input()
+        elif option == "2":
+            print story2.story()
             raw_input()
     print "Good Bye!"
     
