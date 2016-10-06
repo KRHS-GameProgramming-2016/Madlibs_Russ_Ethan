@@ -6,8 +6,7 @@ def story():
     temperature1 = getNumber("Enter a Number: ")
     
     text = " Once apon a time there was a" + noun1
-    text += " 
-    text += "   which wasnt very " + adjective1
+    text += ". who wasnt very " + adjective1
     text += " " 
-    text += "  
+    #text += "  
     return text
