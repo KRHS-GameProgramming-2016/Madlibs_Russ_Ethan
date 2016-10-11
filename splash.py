@@ -13,6 +13,7 @@ def splash():
     screen += "*                               *\n"
     screen += "*       press enter to continue *\n"
     screen += "*********************************\n"
+    screen += ""
     return screen
 
 
