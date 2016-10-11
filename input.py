@@ -18,7 +18,8 @@ def isSwear(word):
                  "pussy"
                  "cunt"
                  "chink"
-                 
+                 "masterbation"
+                 "Im an alabama friend and I wanna be free"
                  
                  ]
     if word in swearList:
