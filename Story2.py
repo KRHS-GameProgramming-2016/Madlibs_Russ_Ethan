@@ -3,11 +3,39 @@ from input import *
 #Written by Mr. Spooner
 def story():
     location1 = getWord("Enter a location: ")
-    temperature1 = getNumber("Enter a Number: ")
+    adjective1 = getWord("Enter a Word: ")
+    name1 = getWord("Enter a Word: ")
+    
     
     text = ""
-    text += "One day I went to the " + location1
-    text += ". It was like a " + temperature1
-    text += " out."    
+    text += "There was once a lad named Dirty Dan, who lived in" + location1
+    text += ". Dans house was " + adjective1
+    text += ". Dirt McDan lived in the house with" + name1 
+    text += " and" + name2  
+    text += ".  " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +   
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +   
+    text += " " +  
     return text
 

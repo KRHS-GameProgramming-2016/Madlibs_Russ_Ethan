@@ -10,7 +10,7 @@ def isSwear(word):
                  "nigger"
                  "kike"
                  "dyke"
-                 "PP"
+                
                  "penis"
                  "dick"
                  "cock"
