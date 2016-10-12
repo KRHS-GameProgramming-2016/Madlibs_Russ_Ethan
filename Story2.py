@@ -16,9 +16,9 @@ def story():
     text += "was really" + adjective 2
     text += "and would bring " + food1
     text += "to cookouts every " + amountoftime1 
-    text += ". One day however everything went wrong." +  
-    text += " " +  
-    text += " " +  
+    text += ". One day however everything went wrong." + name2 
+    text += " decided that he was going to crash the cook out by" + verb1
+    text += "everyone there " +  
     text += " " +  
     text += " " +  
     text += " " +  
