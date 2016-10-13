@@ -13,7 +13,7 @@ def story():
     text += ". Dirt McDan lived in the house with" + name1 
     text += " and" + name2 
     text += ".  " + name1 
-    text += "was really" + adjective2
+    text += "was really" + adjective 2
     text += "and would bring " + food1
     text += "to cookouts every " + amountoftime1 
     text += ". One day however everything went wrong." + name2 
@@ -26,7 +26,17 @@ def story():
     text += ". While they did this Dirty Dan was slain in one on one combat against a" + animal1   
     text += "and " + name2 
     text += "was crowned champion of" + location1 
-    text += ". " 
-   
+    text += ". " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +   
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +  
+    text += " " +   
+    text += " " +  
     return text
 
