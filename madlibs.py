@@ -1,7 +1,7 @@
 from splash import *
 from input import *
 import story1
-import story2
+import Story2
 
 def madlibs():
     print splash()
