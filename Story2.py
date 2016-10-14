@@ -1,6 +1,6 @@
 from input import *
 
-Written by Russell Mellott
+#Written by Russell Mellott
 def story():
     location1 = getWord("Enter a location: ")
     adjective1 = getWord("Enter a adjective: ")

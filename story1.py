@@ -2,14 +2,14 @@ from input import *
 
 #Written by Ethan Thompson
 def story():
-    gender1 = getWord("Enter a gender1: ")
-    adjective1 = getWord("Enter a adjective1: ")
-    noun2 = getWord("Enter a noun2: ")
-    bodypart1 = getWord("Enter a body part1: ")
-    temperature1 = getWord("Enter a temperature1: ")
-    noun2 = getWord("Enter a noun2: ")
-    bodypart1 = getWord("Enter a bodypart1: ")
-        #= getWord("Enter a : ")
+    gender1 = getWord("Enter a gender: ")
+    adjective1 = getWord("Enter a adjective: ")
+    noun2 = getWord("Enter a noun: ")
+    bodypart1 = getWord("Enter a body part: ")
+    temperature1 = getWord("Enter a temperature: ")
+    noun2 = getWord("Enter a noun: ")
+    bodypart1 = getWord("Enter a bodypart: ")
+    noun2 = getWord("Enter a noun: ")
         #= getWord("Enter a : ")
         #= getWord("Enter a : ")
         #= getWord("Enter a : ")
