@@ -12,6 +12,7 @@ def isSwear(word):
                  "dyke"
                  "penis"
                  "dick"
+                 "penis"
                  "cock"
                  "vagina"
                  "pussy"
