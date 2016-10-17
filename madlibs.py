@@ -3,6 +3,8 @@ from input import *
 import story1
 import Story2
 
+
+
 def madlibs():
     print splash()
     raw_input()
@@ -16,10 +18,11 @@ def madlibs():
             print story1.story()
             raw_input()
         elif option == "2":
-            print Story2.s
-            tory()
+            print Story2.story()
             raw_input()
-    print "Good Bye!"
+        
+            print "Good Bye!"
+    
     
 
     

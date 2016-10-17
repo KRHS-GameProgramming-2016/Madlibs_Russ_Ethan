@@ -30,7 +30,7 @@ def story():
     text += " everyone there. " + name2
     text += " wanted to do this because Dirty Dan had " + verb1 
     text += " his cat " + amountoftime2 
-    text += " ago. As a result of this and" + name2  
+    text += " ago. As a result of this and " + name2  
     text += "'s actions, the two of them decided to play a match of " + sport1  
     text += ". While they did this Dirty Dan was slain in one on one combat against a " + animal1   
     text += " and " + name2 

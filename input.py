@@ -20,6 +20,7 @@ def isSwear(word):
                  "chink"
                  "masterbation"
                  "Im an alabama friend and I wanna be free"
+                 "pp"
                  
                  ]
     if word in swearList:
