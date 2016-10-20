@@ -10,14 +10,6 @@ def story():
     gender = getWord("Enter another gender: ")
     colorshade1 = getWord("Enter a colorshade: ")
     
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
-        #= getWord("Enter a : ")
     
     
     text = "Once upon a time there was a " + gender
@@ -35,13 +27,7 @@ def story():
     text += " He told him he needed the " +noun2
     text += " off his " +bodypart1
     text += " ,its part of a large government conspiracy. "
-    #text += " " +
-    #text += " " +
-    #text += " " +
-    #text += " " +
-    #text += " " +
-    #text += " " +
-      
+  
       
       
     return text
