@@ -2,6 +2,7 @@ from splash import *
 from input import *
 import story1
 import Story2
+import Story3
 
 
 
@@ -20,7 +21,7 @@ def madlibs():
         elif option == "2":
             print Story2.story()
             raw_input()
-        elif option == "2":
+        elif option == "3":
             print Story3.story()
             raw_input()
               
