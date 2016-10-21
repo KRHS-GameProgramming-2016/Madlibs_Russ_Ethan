@@ -1,3 +1,5 @@
+from States import States
+from Countries import Countries
 def isSwear(word):
     swearList = ["poop",
                  "pee"

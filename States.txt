@@ -1,4 +1,5 @@
-#
+#http://alphabetizer.flap.tv/lists/list-of-states-in-alphabetical-order.php
+#random coments added by Spooner for testing
 
 
 Alabama
@@ -29,8 +30,8 @@ Missouri
 Montana
 Nebraska
 Nevada
-New Hampshire
-New Jersey
+New Hampshire (the best)
+New Jersey (it stinks)
 New Mexico
 New York
 North Carolina
@@ -43,7 +44,7 @@ Rhode Island
 South Carolina
 South Dakota
 Tennessee
-Texas
+Texas (ye-haw!)
 Utah
 Vermont
 Virginia
