@@ -7,7 +7,8 @@ def story():
     MeanName1 = getWord("Enter an insulting name: ")
     pasttenseverb1= getWord("Enter a past tense verb: ")
     number1 = getWord("Enter a number: ")
-    pasttenseverb2= getWord("Enter a past tense verb: ")
+    pasttenseverb2 = getWord("Enter a past tense verb: ")
+    verb1 = ("Enter a verb: ")
     statecountry1 = getWord("Enter a state or country: ")
     statecountry2 = getWord("Enter another state or country: ")
    
