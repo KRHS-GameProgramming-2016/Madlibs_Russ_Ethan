@@ -13,12 +13,12 @@ def story():
     statecountry2 = getWord("Enter another state or country: ")
    
     text = "Do you know the muffin man? Well " + name1
-    text += "does. He's a real " + adjective1
-    text += "guy. Not only is he a " + MeanName1
+    text += " does. He's a real " + adjective1
+    text += " guy. Not only is he a " + MeanName1
     text += " but he also " + pasttenseverb1 
     text += " little kids in the middle of the night. This has gotten him arrested " + number1
     text += " times. "
-    text += "The Muffin man even" + pasttenseverb2
+    text += "The Muffin man even " + pasttenseverb2
     text += " his own family."
     text += "He's never been outside the borders of" + statecountry1
     text += " because of his probation, and his restraining order against" + name1
