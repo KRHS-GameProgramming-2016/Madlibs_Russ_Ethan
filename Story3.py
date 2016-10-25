@@ -8,7 +8,7 @@ def story():
     pasttenseverb1= getWord("Enter a past tense verb: ")
     number1 = getWord("Enter a number: ")
     pasttenseverb2 = getWord("Enter a past tense verb: ")
-    verb1 = ("Enter a verb: ")
+    verb1 = getWord("Enter a verb: ")
     statecountry1 = getWord("Enter a state or country: ")
     statecountry2 = getWord("Enter another state or country: ")
    
@@ -19,12 +19,12 @@ def story():
     text += " little kids in the middle of the night. This has gotten him arrested " + number1
     text += " times. "
     text += "The Muffin man even " + pasttenseverb2
-    text += " his own family."
+    text += " his own family. "
     text += "He's never been outside the borders of" + statecountry1
-    text += " because of his probation, and his restraining order against" + name1
+    text += " because of his probation, and his restraining order against " + name1
     text += " is expiring next month. " 
-    text += " Now " + name1 
-    text += "is trying to get out of" + statecountry1
+    text += "Now " + name1 
+    text += " is trying to get out of " + statecountry1
     text += " for the fear that the Muffin Man will come after them and " + verb1
     text += " them again. However because of TRUMPS MAGNUM WALL, immigration out of " + statecountry1
     text += " to anywhere other then " + statecountry2 
