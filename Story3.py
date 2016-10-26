@@ -20,7 +20,7 @@ def story():
     text += " times. "
     text += "The Muffin man even " + pasttenseverb2
     text += " his own family. "
-    text += "He's never been outside the borders of" + statecountry1
+    text += "He's never been outside the borders of " + statecountry1
     text += " because of his probation, and his restraining order against " + name1
     text += " is expiring next month. " 
     text += "Now " + name1 
@@ -30,5 +30,6 @@ def story():
     text += " to anywhere other then " + statecountry2 
     text += " is impossible."
     text += " RIP " + name1
+    text += "." 
     
     return text

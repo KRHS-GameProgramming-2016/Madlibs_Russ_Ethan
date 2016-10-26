@@ -27,8 +27,4 @@ def madlibs():
               
         print "Good Bye!"
         
-    
-    
-
-    
 madlibs()
