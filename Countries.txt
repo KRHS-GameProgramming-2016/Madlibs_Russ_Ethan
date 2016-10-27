@@ -116,3 +116,376 @@ Curacao
 Cyprus, Republic of
 Cyprus, Turkish Fed. State of
 Czech Republic
+Dahomey (see Benin)
+Davis (see Australian Antarctic Territory)
+Denmark
+Diego Garcia (see British Indian Ocean Territory)
+Djibouti
+Dodecanese Islands (Rhodes)
+Dominica
+Dominican Republic
+Dubai
+Dzaoudzi (see Mayotte)
+Easter Island
+Ecuador
+Eire (see Ireland, Republic of)
+Egypt in Africa
+Egypt in Asia (Sinai Peninsula)
+El Salvador
+Ellice Islands (see Tuvalu)
+Enderbury (see Line/Phoenix Islands)
+England
+Eniwetok (see Marshall Islands, Republic of)
+Equatorial Guinea (Fernando Pṓ, Bioko Island, Malabo)
+Equatorial Guinea (Rio Muni, Bata)
+Eritrea
+Estonia
+Ethiopia
+Fakaofu (see Tokelau Islands)
+Falkland Islands
+Falkland Islands Dependencies (British Antarctica,Graham Land, South Shetland, South Sandwich, South Georgia, South Orkney)
+Fanning (see Line/Phoenix Islands)
+Faroe Islands
+Farquhar (see Zil Elwannyen Sesel)
+Fernando do Noronha
+Fernando Poo (see Equatorial Guinea)
+Fiji Islands
+Finland
+France
+French Guiana
+French Guinea
+French Polynesia (Tahiti,Tuamotu, Austral, Gambier)
+French Southern & Antarctic Territory (Kerguelen,Crozet, Amsterdam, St. Paul)
+Fujeirah
+Funafuti (see Tuvalu)
+Futuna (see Wallis & Futuna Islan
+Gabon
+Galapagos Islands
+Gambia
+Gambier (see French Polynesia)
+Georgia
+Germany
+Ghana (Gold Coast, British Togoland)
+Gibraltar
+Gilberts (see Kiribati)
+Glorioso (see Reunion & Deps.)
+Gold Coast (see Ghana)
+Graham Land (see Falkland Islands Dependencies)
+Grand Comoro (see Comoro Islands)
+Greece
+Greenland (Kalaallit Nunaat)
+Grenada & Deps. (Carriacou, Grenadines)
+Grenadines (see Grenada & Deps., St. Vincent & Deps.)
+Guadalcanal
+Guadeloupe & Deps.(Marie Galante)
+Margarita Island (see Nueva Esparta)
+Guam
+Guatemala
+Guernsey & Deps. (Alderney, Herm, Sark, Channel Islands)
+Guiana (see French Guiana)
+Guinea (French)
+Guinea-Bissau
+Guyana (British Guiana)
+Hainan Island
+Haiti
+Hawaiian Islands
+Heard (see Australian Antarctic Territory)
+Herm (see Guernsey & Deps.)
+Herzegovina (see Bosnia & Herzegovina)
+Honduras
+Hong Kong
+Howland (see Line/Phoenix Islands)
+Hungary
+Iceland
+India
+Indonesia
+Indonesian Borneo (see Kalimantan)
+Ionian Islands (Corfu, etc.)
+Iran
+Iraq
+Ireland, Republic of (Eire)
+Ireland, Northern (Ulster)
+Isle of Man
+Israel
+Istanbul (see Turkey in Europe)
+Italian Somaliland (see Somalia)
+Italy
+Ivory Coast
+Iwo Jima (see Ogasawara)
+Izmir (see Turkey in Asia)
+Jamaica
+Japan
+Java
+Jeju Island (South Korea)
+Jersey (Channel Islands)
+Jordan
+Juan Fernandez Islands (Robinson Crusoe Island)
+Kalaallit Nunaat (see Greenland)
+Kalimantan (Indonesian Borneo)
+Kaliningrad
+Kashmir
+Kazakhstan
+Keeling (see Cocos Islands)
+Kenya
+Kerguelen (see French Southern & Antarctic Territory)
+Kinshasa (see Congo, Democratic Republic of)
+Kiribati (Gilberts,Tarawa, Ocean Island)
+Korea, North (Democratic People’s Repbublic of Korea)
+Korea, South (Republic of Korea)
+Kosovo
+Kosrae (see Micronesia, Fed.States of )
+Kuwait
+Kwajalein (see Marshall Islands, Republic of)
+Kyrgyzstan
+Lakshadweep
+Lampedusa
+Laos
+Latvia
+Lebanon
+Leeward Islands, French (St. Martin)
+Leeward Islands, Netherlands (Saba, St. Eustatius)
+Lesotho (Basutoland)
+Lesser Sunda Islands (Bali,Timor, Indonesia)
+Liberia
+Libya
+Liechtenstein
+Line/Phoenix Islands (Palmyra, Fanning, Christmas, Canton, Enderbury, Howland)
+Lithuania
+Lord Howe Island
+Loyalty Islands (see New Caledonia & Deps.)
+Luxembourg
+Macau
+Macedonia
+Macquarie (see Australian Antarctic Territory)
+Madagascar
+Madeira
+Majuro (see Marshall Islands, Republic of)
+Malawi (Nyasaland)
+Malaysia
+Maldive Islands
+Mali
+Mallorca (see Balearic Islands)
+Malta
+Marie Galante (see Guadeloupe & Deps.)
+Mariehamn (see Aland Islands)
+Marquesas Islands
+Marshall Islands, Republic of (Majuro, Kwajalein, Eniwetok)
+Martinique
+Mauritania
+Mauritius & Deps. (Agalega, St. Brandon)
+Mawson (see Australian Antarctic Territory)
+Mayotte (Dzaoudzi)
+Melilla (see Morocco,Spanish)
+Mexico
+Micronesia, Fed.States of (Pohnpei, Kosrae, Chuuk,Yap,Caroline Islands)
+Midway Island
+Minorca (see Balearic Islands)
+Miquelon (see St. Pierre & Miquelon)
+Moheli (see Comoro Islands)
+Moldova
+Moluka
+Monaco
+Mongolia, Rep.
+Montenegro
+Montserrat
+Morocco, Kingdom of
+Morocco,Spanish (Ceuta, Melilla)
+Mozambique
+Myanmar (Burma)
+Nakhchivan
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles (see St. Maarten)
+Netherlands Guiana (see Suriname)
+Nevis (see St. Kitts & Nevis)
+New Britain (see Bismarck Archipelago)
+New Caledonia & Deps. (Noumea, Loyalty Islands)
+Nueva Esparta (Margarita Island)
+New Georgia (see Solomon Islands)
+New Hebrides Islands (see Vanuatu)
+New Ireland (see Bismarck Archipelago)
+New Zealand
+New Zealand Antarctica (Ross Dependency)
+Nicaragua
+Nicobar Islands (see Andaman-Nicobar Islands)
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Borneo (see Sabah)
+Northern Marianas (Saipan, Tinian)
+Northern Rhodesia (see Zambia)
+Norway
+Norwegian Antarctica (Queen Maud Land, Bouvet)
+Noumea (see New Caledonia & Deps.)
+Nukualofa
+Nunaat
+Nyasaland (see Malawi)
+Ocean Island (see Kiribati)
+Ogasawara (Bonin, Volcano Island, Iwo Jima)
+Okinawa (see Ryukyu Islands)
+Oman
+Pago Pago (see American Samoa)
+Pakistan
+Palau, Republic of
+Palestine
+Palmer Peninsula (see Argentine Antarctica and Chilean Antarctica)
+Palmyra (see Line/Phoenix Islands)
+Panama
+Papua (Irian Jaya)
+Papua New Guinea
+Paraguay
+Penrhyn (see Cook Islands)
+Peru
+Philippines
+Phoenix/Line Islands (Palmyra, Fanning, Christmas, Canton, Enderbury, Howland)
+Pitcairn Island
+Pohnpei (see Micronesia, Fed.States of )
+Poland
+Portugal
+Prince Edward Island
+Principe (see Sao Tome & Principe)
+Providencia (see San Andres & Providencia)
+Puerto Rico
+Qatar
+Queen Maud Land (see Norwegian Antarctica)
+Rarotonga(see Cook Islands)
+Ras Al Khaimah
+Redonda (see Antigua)
+Reunion & Deps. (Tromelin, Glorioso)
+Rhodes (see Dodecanese Islands)
+Rio Muni (see Equatorial Guinea)
+Robinson Crusoe Island (see Juan Fernandez Islands)
+Rodriguez Island
+Romania
+Ross Dependency (see New Zealand Antarctica)
+Russia
+Russia in Asia (see Siberia)
+Rwanda
+Ryukyu Islands (Okinawa)
+Saba (see Leeward Islands, Netherlands)
+Sabah (No. Borneo)
+Saipan (see Northern Marianas)
+Samoa (Apia)
+Samoa, American (Pago Pago)
+San Andres & Providencia
+San Marino
+Sao Tome & Principe
+Sarajevo (see Bosnia & Herzegovina)
+Sarawak
+Sardinia
+Sark (see Guernsey & Deps.)
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sharjah
+Siberia (Russia in Asia)
+Sicily
+Sierra Leone
+Sikkim
+Singapore
+Slovakia
+Slovenia
+Socotra
+Solomon Islands (Guadalcanal, New Georgia,Tulagi)
+Somalia (Italian Somaliland)
+Somaliland (British)
+South Africa
+South Georgia (see Falkland Islands Dependencies)
+South Orkney (see Falkland Islands Dependencies)
+South Sandwich (see Falkland Islands Dependencies)
+South Sudan
+South Shetland (see Falkland Islands Dependencies)
+Southern Rhodesia (see Zimbabwe)
+Spain
+Spanish Sahara (see Western Sahara)
+Spitsbergen (Svalbard, Bear Island)
+Sri Lanka (Ceylon)
+Srpska
+St. Barts
+St. Brandon (see Mauritius & Deps.)
+St. Croix(see Virgin Islands, U.S.)
+St. Eustatius (see Leeward Islands, Netherlands)
+St. Helena
+St. John (see Virgin Islands, U.S.)
+St. Kitts & Nevis
+St. Lucia
+St. Maarten (formerly Netherlands Antilles)
+St. Martin (see Leeward Islands, French)
+St. Paul (see French Southern & Antarctic Territory)
+St. Pierre & Miquelon
+St. Thomas (see Virgin Islands, U.S.)
+St. Vincent & Deps. (Bequia, Canouan Grenadines)
+Sudan
+Sulawesi (Celebes, Indonesia)
+Sumatra (Indonesia)
+Suriname (Netherlands Guiana)
+Svalbard (see Spitsbergen)
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti (see French Polynesia)
+Taiwan. R.O.C.
+Tajikistan
+Tanganyika (see Tanzania)
+Tanzania (Tanganyika)
+Tarawa (see Kiribati)
+Tasmania
+Thailand
+Tibet
+Timor, Indonesia (see Lesser Sunda Islands)
+Timor Leste
+Tinian (see Northern Marianas)
+Tobago (see Trinidad)
+Togo
+Tokelau Islands (Fakaofu, Atafu, Union)
+Tonga (Nukualofa)
+Tortola (see Virgin Islands, British)
+Trans Dniester
+Trinidad & Tobago
+Tristan da Cunha
+Tromelin (see Reunion & Deps.)
+Tuamotu (see French Polynesia)
+Tulagi (see Solomon Islands)
+Tunisia
+Turkey in Asia (Anatolia, Ankara, Izmir)
+Turkey in Europe (Istanbul)
+Turkmenistan
+Turks & Caicos Islands
+Tuvalu (Ellice Islands, Funafuti, Va
+Uganda
+Ukraine
+Ulster (see Ireland, Northern)
+Umm Al Qaiwain
+Union Island (see Tokelau Islands)
+United States (continental)
+Upper Volta (see Burkina Faso)
+Uruguay
+Urundi (see Burundi)
+Uzbekistan
+Vaitapu (see Tuvalu)
+Vanuatu (New Hebrides Islands)
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands, British (Tortola, etc.)
+Virgin Islands, U.S. (St. Croix, St. John, St. Thomas)
+Volcano Island (see Ogasawara)
+Wake Island
+Wales
+Wallis & Futuna Islands
+Western Sahara (Spanish Sahara)
+Yap (see Micronesia, Fed.States of )
+Yemen
+Yerevan (see Armenia)
+Zambia (No. Rhodesia)
+Zanzibar
+Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Is.)
+Zimbabwe (So. Rhodesia)
+
+
